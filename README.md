@@ -1,8 +1,15 @@
 # Pydventure
 
-Classic text adventure. Escape the room! Type help to get you started.
+**Classic Text Adventure**
 
-![Map](floor_map.png)
+> Maurits Lam  
+> 2025
+
+<p align="center">
+   <img src="floor_map.png" alt="Floor Map" height="400"/>
+</p>
+
+Escape the room! Type help to get you started.
 
 ## License
 
